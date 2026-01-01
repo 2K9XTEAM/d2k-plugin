@@ -4,6 +4,8 @@ D2K là plugin thanh toán tự động dành cho Minecraft, giúp máy chủ h�
 
 Hiện đang hỗ trợ cổng nạp thẻ cào [Card2K](https://card2k.com) và cổng bank [Sepay](https://sepay.vn).
 
+**Lưu ý:** hiện đang trong quá trình phát triển, vui lòng báo cáo mọi vấn đề bạn gặp phải tại [cộng đồng Discord chính thức của Card2K](https://discord.gg/d44nKJU5Tm).
+
 Tính năng hiện có của Plugin
 ===========
 
