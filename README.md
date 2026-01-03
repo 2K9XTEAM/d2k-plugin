@@ -59,4 +59,4 @@ Liên kết
 - Cộng đồng Discord hỗ trợ: [https://discord.card2k.com](https://discord.card2k.com).
 
 ---
-Copyright (c) 2K9X Team. All rights reserved.
+<p align="center">Copyright (c) 2K9X Team. All rights reserved.</p>
