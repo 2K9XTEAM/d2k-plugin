@@ -43,5 +43,20 @@ Hướng dẫn sử dụng
 | %d2k_total_raw_<SERVER>_<PLAYER>% | Giống như trên nhưng trả về số thô (không có dấu phẩy và chữ VND). Dùng cho tính toán.                                                               | %d2k_total_raw_server1_card2k% |
 | %d2k_top_<SCOPE>_<SERVER>_<RANK>% | Hiển thị thông tin người đứng top nạp thẻ (Tên + Số tiền).  SCOPE: DAY (Ngày), WEEK (Tuần), MONTH (Tháng), ALL (Tổng).  RANK: Thứ hạng (1, 2, 3...). | %d2k_top_ALL_server1_1%        |
 
+Đội ngũ phát triển Plugin
+===========
+- [@hhiepz](https://discord.com/users/690826310737461278) quản trị dự án & giám sát tiến độ phát triển dự án.
+- [@undefiinedstate](https://discord.com/users/727497287777124414) phát triển chính hệ thống D2K.
+- [@_2kieulee](https://discord.com/users/1442356742284378162) hỗ trợ phát triển & thử nghiệm hệ thống.
+- [@kh0asoma](https://discord.com/users/808974657994752050) và [@heiznerd_2008](https://discord.com/users/1316287191634149377) hỗ trợ xây dựng tài liệu D2K.
+
+Trong trường hợp bạn cần yêu cầu hỗ trợ, vui lòng truy cập [cộng đồng Discord Card2K](https://discord.card2k.com) và tạo ticket để được hỗ trợ!
+
+Liên kết
+==========
+- Card2K Platform: [https://card2k.com](https://card2k.com).
+- Tài liệu hướng dẫn sử dụng D2K: [https://d2k.card2k.com](https://d2k.card2k.com).
+- Cộng đồng Discord hỗ trợ: [https://discord.card2k.com](https://discord.card2k.com).
+
 ---
-Plugin được phát triển bởi 2K9XTeam và các cá nhân liên quan. Copyright (c) 2K9X Team. All rights reserved.
+Copyright (c) 2K9X Team. All rights reserved.
