@@ -1,5 +1,10 @@
 D2K Plugin [![GitHub Release](https://img.shields.io/github/v/release/2K9XTEAM/d2k-plugin?style=flat)](https://github.com/2K9XTEAM/d2k-plugin/releases) [![Discord](https://img.shields.io/discord/1068941579244539904.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/d44nKJU5Tm) ![Supported server version](https://img.shields.io/badge/minecraft-1.12%20--_1.21-green)
 ===========
+
+<img width="1702" height="630" alt="d2k" src="https://github.com/user-attachments/assets/db197a11-bb6a-4f4f-b3ea-edbcfe40db9d" />
+
+---
+
 D2K là plugin thanh toán tự động dành cho Minecraft, giúp máy chủ hỗ trợ donate và nạp tiền theo thời gian thực. Plugin tích hợp trực tiếp cổng nạp thẻ cào Card2K và dịch vụ thanh toán ngân hàng SePay, mang đến trải nghiệm thanh toán nhanh chóng, tiện lợi và ổn định cho người chơi.
 
 Hiện đang hỗ trợ cổng nạp thẻ cào [Card2K](https://card2k.com) và cổng bank [Sepay](https://sepay.vn).
