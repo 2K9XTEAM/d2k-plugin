@@ -27,7 +27,7 @@ Hướng dẫn sử dụng
 |---------|-----------------------------|-------------------|
 | /atm    | Mở menu nạp qua ngân hàng   | `atm.use`         |
 | /napthe | Mở menu nạp qua thẻ cào     | `napthe.use`      |
-| /atm toggle <atm/napthe>    | Lệnh sử dụng dành cho admin để bật/tắt hệ thống ATM/nạp thẻ | `d2k.admin.basic` |
+| /d2k    | Lệnh sử dụng dành cho admin | `d2k.admin.basic` |
 
 **Placeholder**
 
